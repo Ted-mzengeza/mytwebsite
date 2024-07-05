@@ -8,4 +8,4 @@ in this header let me create a unordered list
 ### header 3
 in this example i will create a ordered list
 1. milk
-2. 2. sugar
+2. sugar
